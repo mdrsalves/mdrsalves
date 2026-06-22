@@ -21,5 +21,4 @@ Linux | Python | Wireshark | Git | Bash | VirtualBox | Networking | CTFs
 ## Connect
 
 - GitHub: `github.com/netoadvice`
-- LinkedIn: [text](www.instagram.com/mdrsalvws/)
 - Email: `vascodagamamae@gmail.com.`
