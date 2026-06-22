@@ -10,13 +10,13 @@ Cybersecurity Student | Linux Enthusiast | Networking Learner
 - Information Systems Student
 - Linux enthusiast
 - Currently studying Subnetting
-- Learning Python for Cybersecurity
+- Python for Cybersecurity
 - Interested in Digital Forensics and Incident Response
 - Always learning, always building
 
 ## Tech Stack
 
-Linux | Python | Wireshark | Git | Bash | VirtualBox | Networking | CTFs
+Windows|Linux | Python | Wireshark | Git | Bash | VirtualBox | Networking | CTFs
 
 ## Connect
 
