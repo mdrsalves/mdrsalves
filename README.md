@@ -1,15 +1,3 @@
-.github/workflows/snake.yml 
-![Snake Animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
-
-int main(void) { while 
-(learning)
-{ study(); ()obsessed
-; build_projects(); improve(); } return SUCCESS; }
-
-
-security and developement learner. 
-
-
 name: Generate Snake
 
 on:
@@ -37,4 +25,19 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+.github/workflows/snake.yml 
+![Snake Animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
+int main(void) { while 
+(learning)
+{ study(); ()obsessed
+; build_projects(); improve(); } return SUCCESS; }
+
+
+security and developement learner. 
+
+
+
 
