@@ -13,5 +13,3 @@ int main(void) { while
 security and developement learner. 
 
 
-
-
